@@ -19,6 +19,13 @@
 
 ---
 
+- [OSCP](https://github.com/austinsonger/OSCP)
+  > Tracking my journey towards earning my OSCP. This includes the process of everything that I learn along the way.
+    - ![image](https://user-images.githubusercontent.com/51442719/173183196-6ea415cc-b506-4f46-801f-b86e38b184dc.png)
+
+
+---
+
 # [Offensive Security Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 **Offensive Security Exam Report Template in Markdown** so LaTeX, Microsoft Office Word, LibreOffice Writer are no longer needed during your Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP, OSEP, OSED exam!
 
