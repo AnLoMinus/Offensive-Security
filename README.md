@@ -75,3 +75,16 @@ Exam acronym | Exam name                                         | Lab acronym |
 **OSED**     | Offensive Security Exploit Developer              | WUMED       | Windows User Mode Exploit Development     | EXP-301
 **OSEE**     | Offensive Security Exploitation Expert            | AWE         | Advanced Windows Exploitation             | EXP-401
 **OSCE**     | Offensive Security Certified Expert               | CTP         | Cracking the Perimeter                    | N/A
+
+---
+
+# [Live Cyber Attack Maps](https://www.cybernetix-s3c.net/main/#live-cyber-attack-maps)
+- These maps do show all (most) attacks true origin, including from ALL of those who are using TOR, who believe they are hiding behind VPNS and such.
+- Anonyminity has never existed. 
+- Here is my list of the best Live Cyber Attack Maps in real-time.
+  - [IpViking](http://map.norsecorp.com/)
+  - [Digital Attack Map](https://www.digitalattackmap.com/)
+  - [CheckPoint’s Live Cyber Attack Map](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
+  - [FireEye’s Cyber Attack Map](https://www.fireeye.com/cyber-map/threat-map.html)
+  - [Kaspersky Live Threat Map](https://cybermap.kaspersky.com/)
+  
